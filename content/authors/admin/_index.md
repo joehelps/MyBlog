@@ -43,4 +43,4 @@ title: Joe Helps
 
 Joe Helps is a post-doctoral scientist at Rothamsted Research agricultural research institute, UK. His research interests include anything related to modelling pests and diseases of agricultural crops, with a view to reducing yield losses and promoting sustainable agriculture.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Joe Helps CV.pdf" "newtab" >}}CV{{< /staticref >}}.
