@@ -17,7 +17,7 @@ doi: 10.1371/journal.pone.0161887
 featured: false
 image:
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: 'PLOS ONE'
 publication_short: ""
 publication_types:
 - "2"

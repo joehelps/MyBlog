@@ -8,19 +8,19 @@ abstract: Insect management strategies for agricultural crop pests must reduce s
   The model includes several possible life-history traits including sexual or asexual reproduction, diploid or haplodiploid 
   genetics, univoltine or multivoltine life cycle, so that the high dose strategy can be tested for many different in- sect pests. 
   Using this model we aim to identify the key characteristics of pests that make either a high dose or a low dose of 
-  insecticide optimal for resistance management. 
+  insecticide optimal for resistance management.
   Two outputs are explored, firstly whether the frequency of the resistance allele increases over time or remains low indefinitely; 
   and secondly whether lowering the dose of insecticide applied reduces or increases the rate of selection for the resistance allele. 
   It is demonstrated that with high immigration resistance can be suppressed. 
   This suppression however, is rarely lost if the insecticide dose is reduced, and is absent altogether when individuals move 
   from the treated population back into an untreated population. 
   Reducing the dose of insecticide often resulted in slower development of resistance, except where the population combined a high 
-  influx of less resis- tant individuals into the treated population, a recessive resistance gene and a high efficacy, in which case 
+  influx of less resistant individuals into the treated population, a recessive resistance gene and a high efficacy, in which case 
   reducing the dose of insecticide could result in faster selection for resistance.
 author_notes:
-- Equal contribution
-- Equal contribution
-- Equal contribution
+- Primary researcher
+- Concept and editing
+- Concept and editing
 authors:
 - admin
 - "Neil Paveley"
@@ -35,7 +35,6 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
 summary: High dose bad, low dose good (for selection, not control)
 tags:
 - Source Themes
@@ -49,13 +48,3 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
