@@ -20,15 +20,14 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: joe.helps@rothamsted.ac.uk
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: West Common
+  city: Harpenden
+  region: Hertfordshire
+  postcode: 'AL5 2JQ'
+  country: United Kingdom
+  country_code: UK
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
@@ -68,9 +67,9 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
+date_format: '2 Jan, 2006'
 time_format: '3:04 PM'
-address_format: en-us
+address_format: en-gb
 
 # Site features
 
